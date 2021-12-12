@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/superhero-vs-supervillain/static/css/main.a617e044.chunk.css",
+    "main.js": "/superhero-vs-supervillain/static/js/main.a2b57fd4.chunk.js",
+    "main.js.map": "/superhero-vs-supervillain/static/js/main.a2b57fd4.chunk.js.map",
+    "runtime-main.js": "/superhero-vs-supervillain/static/js/runtime-main.b138f178.js",
+    "runtime-main.js.map": "/superhero-vs-supervillain/static/js/runtime-main.b138f178.js.map",
+    "static/js/2.4c85ac53.chunk.js": "/superhero-vs-supervillain/static/js/2.4c85ac53.chunk.js",
+    "static/js/2.4c85ac53.chunk.js.map": "/superhero-vs-supervillain/static/js/2.4c85ac53.chunk.js.map",
+    "static/js/3.8f8eefdd.chunk.js": "/superhero-vs-supervillain/static/js/3.8f8eefdd.chunk.js",
+    "static/js/3.8f8eefdd.chunk.js.map": "/superhero-vs-supervillain/static/js/3.8f8eefdd.chunk.js.map",
+    "index.html": "/superhero-vs-supervillain/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/superhero-vs-supervillain/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.4c85ac53.chunk.js.LICENSE.txt": "/superhero-vs-supervillain/static/js/2.4c85ac53.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/superhero-vs-supervillain/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b138f178.js",
+    "static/js/2.4c85ac53.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a2b57fd4.chunk.js"
+  ]
+}
