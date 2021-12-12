@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/superhero-vs-supervillain/static/css/main.a617e044.chunk.css",
-    "main.js": "/superhero-vs-supervillain/static/js/main.a2b57fd4.chunk.js",
-    "main.js.map": "/superhero-vs-supervillain/static/js/main.a2b57fd4.chunk.js.map",
-    "runtime-main.js": "/superhero-vs-supervillain/static/js/runtime-main.b138f178.js",
-    "runtime-main.js.map": "/superhero-vs-supervillain/static/js/runtime-main.b138f178.js.map",
-    "static/js/2.4c85ac53.chunk.js": "/superhero-vs-supervillain/static/js/2.4c85ac53.chunk.js",
-    "static/js/2.4c85ac53.chunk.js.map": "/superhero-vs-supervillain/static/js/2.4c85ac53.chunk.js.map",
-    "static/js/3.8f8eefdd.chunk.js": "/superhero-vs-supervillain/static/js/3.8f8eefdd.chunk.js",
-    "static/js/3.8f8eefdd.chunk.js.map": "/superhero-vs-supervillain/static/js/3.8f8eefdd.chunk.js.map",
+    "main.css": "/superhero-vs-supervillain/static/css/main.238f572e.chunk.css",
+    "main.js": "/superhero-vs-supervillain/static/js/main.5a35c32b.chunk.js",
+    "main.js.map": "/superhero-vs-supervillain/static/js/main.5a35c32b.chunk.js.map",
+    "runtime-main.js": "/superhero-vs-supervillain/static/js/runtime-main.c0afe00a.js",
+    "runtime-main.js.map": "/superhero-vs-supervillain/static/js/runtime-main.c0afe00a.js.map",
+    "static/js/2.52d3eae4.chunk.js": "/superhero-vs-supervillain/static/js/2.52d3eae4.chunk.js",
+    "static/js/2.52d3eae4.chunk.js.map": "/superhero-vs-supervillain/static/js/2.52d3eae4.chunk.js.map",
+    "static/js/3.67bedc8d.chunk.js": "/superhero-vs-supervillain/static/js/3.67bedc8d.chunk.js",
+    "static/js/3.67bedc8d.chunk.js.map": "/superhero-vs-supervillain/static/js/3.67bedc8d.chunk.js.map",
     "index.html": "/superhero-vs-supervillain/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/superhero-vs-supervillain/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.4c85ac53.chunk.js.LICENSE.txt": "/superhero-vs-supervillain/static/js/2.4c85ac53.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/superhero-vs-supervillain/static/media/logo.6ce24c58.svg"
+    "static/css/main.238f572e.chunk.css.map": "/superhero-vs-supervillain/static/css/main.238f572e.chunk.css.map",
+    "static/js/2.52d3eae4.chunk.js.LICENSE.txt": "/superhero-vs-supervillain/static/js/2.52d3eae4.chunk.js.LICENSE.txt",
+    "static/media/black-widow.jpg": "/superhero-vs-supervillain/static/media/black-widow.85ce34fb.jpg",
+    "static/media/catwoman.jpg": "/superhero-vs-supervillain/static/media/catwoman.ed87307f.jpg",
+    "static/media/gamora.jpg": "/superhero-vs-supervillain/static/media/gamora.70c20e07.jpg",
+    "static/media/harley-quinn.jpg": "/superhero-vs-supervillain/static/media/harley-quinn.484318e0.jpg",
+    "static/media/mystique.jpg": "/superhero-vs-supervillain/static/media/mystique.26d6b81e.jpg",
+    "static/media/phoenix.jpg": "/superhero-vs-supervillain/static/media/phoenix.4ba5ec90.jpg",
+    "static/media/poison-ivy.jpg": "/superhero-vs-supervillain/static/media/poison-ivy.80c3e8e8.jpg",
+    "static/media/scarlet-witch.jpg": "/superhero-vs-supervillain/static/media/scarlet-witch.c883a64d.jpg",
+    "static/media/storm.jpg": "/superhero-vs-supervillain/static/media/storm.7f080974.jpg",
+    "static/media/wonder-woman.jpg": "/superhero-vs-supervillain/static/media/wonder-woman.d999a326.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b138f178.js",
-    "static/js/2.4c85ac53.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.a2b57fd4.chunk.js"
+    "static/js/runtime-main.c0afe00a.js",
+    "static/js/2.52d3eae4.chunk.js",
+    "static/css/main.238f572e.chunk.css",
+    "static/js/main.5a35c32b.chunk.js"
   ]
 }
