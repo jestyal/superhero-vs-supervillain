@@ -4,6 +4,7 @@
     margin: 40px 0;
 }
 .Rate__item {
+    display: grid;
     position: relative;
     width: 100%;
     border: 1px solid #fff;
@@ -82,4 +83,8 @@
 .Rate__desc {
     padding: 10px;
     background-color: #eeeeee;
+}
+.Rate__btn-wrap {
+    padding: 10px;
+    background-color: #f8f8f8;
 }

@@ -1,0 +1,16 @@
+.Btn {
+  display: block;
+  width: fit-content;
+  margin: 0 auto;
+  padding: 10px 20px;
+  border: 0;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #fff;
+  background-color: #282f37;
+  text-transform: uppercase;
+  font-weight: bold;
+  &.js_active {
+    background-color: #24ae8d;
+  }
+}
