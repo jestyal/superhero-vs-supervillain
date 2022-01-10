@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/superhero-vs-supervillain/static/css/main.7da215fc.chunk.css",
-    "main.js": "/superhero-vs-supervillain/static/js/main.816850b0.chunk.js",
-    "main.js.map": "/superhero-vs-supervillain/static/js/main.816850b0.chunk.js.map",
+    "main.js": "/superhero-vs-supervillain/static/js/main.852912e6.chunk.js",
+    "main.js.map": "/superhero-vs-supervillain/static/js/main.852912e6.chunk.js.map",
     "runtime-main.js": "/superhero-vs-supervillain/static/js/runtime-main.28856155.js",
     "runtime-main.js.map": "/superhero-vs-supervillain/static/js/runtime-main.28856155.js.map",
     "static/js/2.60d38f68.chunk.js": "/superhero-vs-supervillain/static/js/2.60d38f68.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.28856155.js",
     "static/js/2.60d38f68.chunk.js",
     "static/css/main.7da215fc.chunk.css",
-    "static/js/main.816850b0.chunk.js"
+    "static/js/main.852912e6.chunk.js"
   ]
 }
