@@ -9,6 +9,9 @@ export default function Chat() {
         changeMessageValue(event.target.value);
     }
     const handleSendMsg = () => {
+        if (!messageValue) {
+            return;
+        }
         changeArrayMessages([
             messageValue,
             ...arrayMessages
