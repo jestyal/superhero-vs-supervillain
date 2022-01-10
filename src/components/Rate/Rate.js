@@ -2,13 +2,17 @@ import { useState } from "react";
 import "./Rate.scss";
 import "../Button/Button.scss";
 
-export default function Rate({ title, desc, price, speed, isActive }) {
+export default function Rate({ title, desc, price, speed }) {
 
     const [checked, setChecked] = useState(false);
 
     const handleClick = () => {
         setChecked(!checked);
+
+
     }
+
+
 
     return (
         <div className={`Rate__item ` + (checked ? "js_active" : '')}>

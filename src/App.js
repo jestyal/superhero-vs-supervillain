@@ -2,6 +2,7 @@ import './App.css';
 import Card from "./components/Card/Card";
 import IMAGES from "./components/Card/images";
 import Rate from "./components/Rate/Rate";
+import Chat from "./components/Chat/Chat";
 
 const comicsCharacters = [{
     "universe": "Marvel Comics",
@@ -155,23 +156,29 @@ function App() {
     return (
         <div className="App">
             <section className="wrapper">
+                <h2 className="title">Chat</h2>
+                <Chat />
+
+                <h2 className="title">Rate</h2>
                 <div className="Rate__wrap">
                     {
-                        rateData.map((item) =>
+                        rateData.map((item, index) =>
                             <Rate title={item.title}
                                   price={item.price}
                                   speed={item.speed}
                                   desc={item.desc}
                                   isActive={item.isActive}
+                                  key={index}
                             />
                         )
                     }
                 </div>
+
                 <div className="comics">
                     <h1 className="title">Суперзлодейки и супергероини вселенных DC и Marvel</h1>
                     <div className="comics__wrap">
                         {
-                            comicsCharacters.map((character) =>
+                            comicsCharacters.map((character, index) =>
                                 <Card universe={character.universe}
                                       nickname={character.nickname}
                                       name={character.name}
@@ -182,6 +189,7 @@ function App() {
                                       allies={character.allies}
                                       feature={character.feature}
                                       info={character.info}
+                                      key={index}
                                 />
                             )
                         }
