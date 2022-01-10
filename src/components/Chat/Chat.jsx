@@ -22,7 +22,7 @@ export default function Chat() {
                 <div className="comments__wrap">
                     {
                         arrayMessages.map((item, index) => (
-                            <div key={index} className="comment__item">
+                            <div key={index} className={`comment__item ` + (index === 0 ? `js_active` : ``)}>
                                 {item}
                             </div>
                         ))

@@ -9,6 +9,9 @@
 
 .comment__item {
   margin-bottom: 8px;
+  &.js_active {
+    background-color: #6dc9f722;
+  }
 }
 
 .form__item {

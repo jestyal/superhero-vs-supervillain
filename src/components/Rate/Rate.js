@@ -8,11 +8,7 @@ export default function Rate({ title, desc, price, speed }) {
 
     const handleClick = () => {
         setChecked(!checked);
-
-
     }
-
-
 
     return (
         <div className={`Rate__item ` + (checked ? "js_active" : '')}>
